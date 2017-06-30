@@ -1,2 +1,2 @@
-# PHP_SAMPLE_CODE_1
+# php_sample_code1
 PHPのサンプルコードその１【ビンゴシート】
